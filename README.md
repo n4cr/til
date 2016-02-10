@@ -10,6 +10,10 @@ _0 tills so far_
 ### Categories
 
 * [Marketing] (#marketing)
-
 * [Development] (#Development)
+
+
+### Marketing
+
+This is the marketing section
 
