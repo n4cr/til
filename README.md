@@ -10,7 +10,7 @@ _0 tills so far_
 ### Categories
 
 - [Marketing] (#marketing)
-    -- [Traction Book] (marketing/tractionbook/framework.md)
+    - [Traction Book] (marketing/tractionbook/framework.md)
 - [Development] (#Development)
 
 
